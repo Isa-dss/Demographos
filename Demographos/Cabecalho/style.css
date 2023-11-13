@@ -1,0 +1,34 @@
+.pad1{
+    margin-bottom: 10px;
+}
+
+.pad2{
+    margin-left: 10px;
+}
+
+.tituloazul{
+    color: #03538D;
+    font-weight: bold;
+}
+
+.tituloverde{
+    color: #00A859;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:link,
+a:visited{
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #00A859;
+    font-weight: bold;
+}
