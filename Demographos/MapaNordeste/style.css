@@ -13,7 +13,7 @@
 
 .container {
   width: 100%;
-  height: 101.5vh;
+  height: 100vh;
   border: 1px solid grey;
   
 }
@@ -143,9 +143,10 @@ li{
   background-color: #fbfbfb;
   text-align: center;
  }
- 
+
  th{
-  width: 400px;
+  width: 350px;
+  margin-right: 20px;
  }
 
  .title {
