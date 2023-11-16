@@ -30,8 +30,8 @@ svg {
   width: 85%;
 }
 
-.sul {
-  fill: #63ab3f;
+.verde {
+  fill: #686f99;
 }
 
 path {
@@ -153,6 +153,7 @@ li{
   height: 30px;
   color: #fff;
   font-size: 26px;
+  text-align: center;
  }
 
  .txt{

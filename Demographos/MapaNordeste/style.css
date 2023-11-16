@@ -31,7 +31,7 @@ svg {
 }
 
 .nordeste {
-  fill: #63ab3f;
+  fill: #f0b541;
 }
 
 path {
@@ -154,6 +154,7 @@ li{
   height: 30px;
   color: #fff;
   font-size: 26px;
+  text-align: center;
  }
 
  .txt{

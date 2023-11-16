@@ -31,7 +31,7 @@ svg {
 }
 
 .centro-oeste {
-  fill: #63ab3f;
+  fill: #ffae70;
 }
 
 path {
@@ -153,6 +153,7 @@ li{
   height: 30px;
   color: #fff;
   font-size: 26px;
+  text-align: center;
  }
 
  .txt{

@@ -18,6 +18,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 
 .norte {
@@ -32,7 +33,7 @@ svg {
   width: 85%;
 }
 
-.norte {
+.verde {
   fill: #63ab3f;
 }
 
@@ -52,7 +53,7 @@ path:hover {
 
 .menu-lateral {
   width: 35%;
-  height: 100vh;
+  height: 101.5vh;
   padding: 5px;
   border-left: 8px solid grey;
   border: 1px solid grey;
